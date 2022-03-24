@@ -1,7 +1,7 @@
 # Mission-Impossible
 
 ### #gradle problem
-1. +org.gradle.java.home=C:/Program Files/Java/jdk-16.0.2
+>1. ***C:/Program Files/Java/jdk-16.0.2***
 
 ### #google_maps_flutter 
 I fixed it by downgrading jdk 17 to jdk 16 and correcting jdk path in my project `gradle.properties` and environment.
